@@ -1,6 +1,6 @@
 function Hola() {
     return (
-        <h1>:)</h1>
+        <h1>:) holaaa</h1>
   
       
     );
